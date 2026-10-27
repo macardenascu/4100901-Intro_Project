@@ -1,3 +1,13 @@
+# STM32L476RG | Introductory Embedded Systems
+
+**Academic coursework** · STM32 Nucleo-L476RG · C · STM32CubeMX · HAL · UART · GPIO
+
+This guided introductory exercise covers an LED heartbeat, button input, timed LED output, and UART messaging/echo. The repository contains learning material and firmware source; this portfolio description does not claim independent hardware verification.
+
+The original Spanish course guide is preserved below.
+
+---
+
 # Práctica Introductoria: Estructuras Computacionales - Sistema de Control Básico
 
 **Universidad Nacional de Colombia - Sede Manizales**
